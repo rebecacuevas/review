@@ -1,0 +1,26 @@
+table,
+tr,
+th,
+td {
+  border: black solid 1px;
+}
+
+table {
+  width: 400px;
+}
+
+.link {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+}
+
+.block {
+  background-color: red;
+}
+
+.align {
+  text-align: center;
+  background-color: red;
+}

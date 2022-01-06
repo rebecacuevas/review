@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  background-color: black;
+  color: whitesmoke;
+  height: 60px;
+}
+
+.menu ul {
+  width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  width: max-content;
+}
+
+.item {
+  display: inline;
+  margin: 0 20px;
+}
+
+.item a {
+  font-size: 18px;
+  color: whitesmoke;
+  text-decoration: none;
+  line-height: 60px;
+  font-family: "Oswald", sans-serif;
+  transition: color 3s;
+}
+
+.item a:hover {
+  color: yellow;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+/*
+.menu .item:hover {
+  background-color: gray;
+}
+*/
