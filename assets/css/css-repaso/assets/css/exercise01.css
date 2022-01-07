@@ -1,0 +1,48 @@
+body {
+  background-color: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-title {
+  text-align: center;
+  letter-spacing: 3px;
+}
+
+.main-content {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.main-content .heading {
+  background-color: gray;
+  color: whitesmoke;
+  padding: 5px 3px;
+}
+
+.main-content .image {
+  float: left;
+}
+
+.main-content .text {
+  margin-left: 140px;
+}
+
+.main-content .container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.main-content .text p {
+  text-indent: 20px;
+  text-align: justify;
+}
+
+.red {
+  font-style: italic;
+  color: red;
+}
+
+.white {
+  font-weight: bold;
+  background-color: white;
+}
